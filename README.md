@@ -1,6 +1,6 @@
 # Insights del Mundo de Videojuegos
-**Maestría en Business Analytics e Inteligencia Artificial — Proyecto de Investigación I**  
-*Miguel Ángel Patiño Antoniou · Joel Apolaya · Eduardo Cabrera · Luis Ferrer · Rossangélica Gutiérrez · Francisco Vela*  
+**Maestría en Business Analytics e Inteligencia Artificial — Proyecto de Investigación I - Universidad Nacional de Ingeniería**  
+*Prof. Miguel Ángel Patiño Antoniou · Joel Apolaya · Eduardo Cabrera · Luis Ferrer · Rossangélica Gutiérrez · Francisco Vela*  
 *Universidad Nacional de Ingeniería*  
 
 ---
